@@ -1,6 +1,22 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif)](https://github.com/phucnds/)
 <h1 align="center">Hi 👋, I'm DoungPhx</h1>
 <h3 align="center">A dedicated game designer with a passion for innovative gameplay</h3>
 
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1747298/screenshots/13977115/digital_gaming_800x600_gif.gif">
+
+[![](https://visitcount.itsvg.in/api?id=phucnds&icon=0&color=0)](https://visitcount.itsvg.in)
+
+- 🌱 I’m currently learning **Virtual Economics**
+
+- 🔭 I’m currently exploring **The Art of Game Design**
+
+- 💬 Ask me about **Game design**
+
+- 📫 How to reach me **nduongphuc@gmail.com**
+
+- ⚡ Fun fact **I am Advocate**
+  
+<br/>
 
 
 ## 🌐 Socials:
@@ -14,6 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phucnds&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=phucnds&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
