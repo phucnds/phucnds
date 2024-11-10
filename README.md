@@ -1,6 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif)](https://github.com/phucnds/)
 <h1 align="center">Hi 👋, I'm DoungPhx</h1>
-<h3 align="center">A dedicated game designer with a passion for innovative gameplay</h3>
+<h3 align="center">A dedicated game designer with a passion for innovative gameplay <br/>I share our love for the field of games and game design</h3>
+
 
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1747298/screenshots/13977115/digital_gaming_800x600_gif.gif">
 
