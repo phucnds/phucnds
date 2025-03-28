@@ -37,7 +37,7 @@
 
 <br clear="both">
 
- <img alt="github-snake" src="https://raw.githubusercontent.com/phucnds/phucnds/output/github-snake.svg" />
+ ![snake gif](https://github.com/phucnds/phucnds/blob/output/github-snake-dark.svg)
 
 ###
 
