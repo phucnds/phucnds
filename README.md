@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/phucnds/phucnds/output/snake.svg" alt="Snake animation" />
+ <img alt="github-snake" src="https://raw.githubusercontent.com/phucnds/phucnds/output/github-snake.svg" />
 
 ###
 
