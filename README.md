@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nduongphuc@gmail.com**
 
-- ⚡ Fun fact **I am Advocate**
+- ⚡ Fun fact **I am The Advocate (MBTI)**
 
 <br/>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=phucnds"  />
